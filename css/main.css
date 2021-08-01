@@ -34,7 +34,7 @@ header .header-icons-container .icons{
     display: flex;
     justify-items: flex-end;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-betweenull;
     justify-self: end;
     margin-right: 50px;
 }
